@@ -1,0 +1,125 @@
+$date
+	Sat Jun  1 23:38:59 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module counter_tb $end
+$var wire 4 ! out [3:0] $end
+$var reg 1 " clk $end
+$var reg 1 # rstn $end
+$scope module c0 $end
+$var wire 1 " clk $end
+$var wire 1 # rstn $end
+$var reg 4 $ out [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx $
+0#
+0"
+bx !
+$end
+#5
+b0 !
+b0 $
+1"
+#10
+0"
+#15
+1"
+#20
+1#
+0"
+#25
+b1 !
+b1 $
+1"
+#30
+0"
+#35
+b10 !
+b10 $
+1"
+#40
+0"
+#45
+b11 !
+b11 $
+1"
+#50
+0"
+#55
+b100 !
+b100 $
+1"
+#60
+0"
+#65
+b101 !
+b101 $
+1"
+#70
+0"
+#75
+b110 !
+b110 $
+1"
+#80
+0"
+#85
+b111 !
+b111 $
+1"
+#90
+0"
+#95
+b1000 !
+b1000 $
+1"
+#100
+0#
+0"
+#105
+b0 !
+b0 $
+1"
+#110
+0"
+#115
+1"
+#120
+0"
+#125
+1"
+#130
+0"
+#135
+1"
+#140
+0"
+#145
+1"
+#150
+1#
+0"
+#155
+b1 !
+b1 $
+1"
+#160
+0"
+#165
+b10 !
+b10 $
+1"
+#170
+0"
